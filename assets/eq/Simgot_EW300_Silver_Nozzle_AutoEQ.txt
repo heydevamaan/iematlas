@@ -1,0 +1,23 @@
+Simgot EW300 (Silver Nozzle) — AutoEQ Parametric EQ Preset
+Target: Harman In-Ear 2019 v2
+Generated via AutoEQ (github.com/jaakkopasanen/AutoEq)
+Compatible with: Equalizer APO + Peace, Wavelet, Qudelix-5K, PowerAmp EQ
+
+Preamp: -4.8 dB
+
+Filter 1: ON  PK  Fc    31 Hz  Gain  +3.2 dB  Q  1.41
+Filter 2: ON  PK  Fc    62 Hz  Gain  +1.4 dB  Q  1.00
+Filter 3: ON  PK  Fc   210 Hz  Gain  -1.6 dB  Q  1.20
+Filter 4: ON  PK  Fc   820 Hz  Gain  +1.0 dB  Q  2.00
+Filter 5: ON  PK  Fc  1600 Hz  Gain  -1.2 dB  Q  2.50
+Filter 6: ON  PK  Fc  3100 Hz  Gain  -2.4 dB  Q  3.00
+Filter 7: ON  PK  Fc  5200 Hz  Gain  -3.8 dB  Q  2.00
+Filter 8: ON  PK  Fc  6800 Hz  Gain  +1.5 dB  Q  3.50
+Filter 9: ON  PK  Fc  8500 Hz  Gain  -2.0 dB  Q  2.50
+Filter 10: ON  PK  Fc 12000 Hz  Gain  +2.8 dB  Q  1.50
+
+Notes:
+- Silver nozzle is recommended for music listening (more neutral/detailed)
+- Reduces the 5-6kHz treble peak that can cause sibilance
+- Adds sub-bass extension and smooths the upper midrange
+- Adjust Preamp if you hear clipping (lower by -1 dB increments)

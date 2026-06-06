@@ -1,0 +1,25 @@
+Pula Unicrom (Unicrown) — AutoEQ Parametric EQ Preset
+Target: Harman In-Ear 2019 v2
+Generated via AutoEQ (github.com/jaakkopasanen/AutoEq)
+Compatible with: Equalizer APO + Peace, Wavelet, Qudelix-5K, PowerAmp EQ
+
+Preamp: -3.8 dB
+
+Filter 1: ON  PK  Fc    30 Hz  Gain  +1.5 dB  Q  1.41
+Filter 2: ON  PK  Fc   100 Hz  Gain  -1.2 dB  Q  0.80
+Filter 3: ON  PK  Fc   300 Hz  Gain  -1.0 dB  Q  1.50
+Filter 4: ON  PK  Fc   900 Hz  Gain  +0.8 dB  Q  2.00
+Filter 5: ON  PK  Fc  1800 Hz  Gain  +1.0 dB  Q  2.50
+Filter 6: ON  PK  Fc  3500 Hz  Gain  +1.8 dB  Q  2.00
+Filter 7: ON  PK  Fc  6000 Hz  Gain  +2.2 dB  Q  2.50
+Filter 8: ON  PK  Fc  8200 Hz  Gain  +1.5 dB  Q  3.00
+Filter 9: ON  PK  Fc 10500 Hz  Gain  +3.0 dB  Q  1.50
+Filter 10: ON  PK  Fc 15000 Hz  Gain  +2.5 dB  Q  2.00
+
+Notes:
+- Unicrom has warm V-shaped tuning — this EQ adds upper treble air
+- Tames the mid-bass bump to reduce bleed into lower mids
+- Boosts upper mids for improved vocal clarity and separation
+- Benefits from a decent source — try with Qudelix 5K or Shanling UA5
+- Use with modular cable's 4.4mm balanced output for best results
+- Adjust Preamp if you hear clipping (lower by -1 dB increments)

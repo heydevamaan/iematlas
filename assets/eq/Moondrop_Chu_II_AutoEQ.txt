@@ -1,0 +1,24 @@
+Moondrop Chu II — AutoEQ Parametric EQ Preset
+Target: Harman In-Ear 2019 v2
+Generated via AutoEQ (github.com/jaakkopasanen/AutoEq)
+Compatible with: Equalizer APO + Peace, Wavelet, Qudelix-5K, PowerAmp EQ
+
+Preamp: -3.4 dB
+
+Filter 1: ON  LSQ Fc   105 Hz  Gain  -2.0 dB  Q  0.71
+Filter 2: ON  PK  Fc   240 Hz  Gain  +1.0 dB  Q  1.20
+Filter 3: ON  PK  Fc   780 Hz  Gain  -0.8 dB  Q  2.00
+Filter 4: ON  PK  Fc  1400 Hz  Gain  +1.2 dB  Q  2.50
+Filter 5: ON  PK  Fc  2800 Hz  Gain  -1.0 dB  Q  3.00
+Filter 6: ON  PK  Fc  3600 Hz  Gain  -2.5 dB  Q  2.50
+Filter 7: ON  PK  Fc  5400 Hz  Gain  +1.0 dB  Q  3.00
+Filter 8: ON  PK  Fc  7500 Hz  Gain  -1.5 dB  Q  2.00
+Filter 9: ON  HSQ Fc  8000 Hz  Gain  -2.0 dB  Q  0.71
+Filter 10: ON  PK  Fc 11500 Hz  Gain  +1.8 dB  Q  2.00
+
+Notes:
+- Reduces the 3-4kHz honkiness/harshness that some find fatiguing
+- Low shelf tames the warm bass boost for cleaner mids
+- High shelf softens brightness above 8kHz
+- Easy to drive — works great from phones and Apple USB-C dongle
+- Adjust Preamp if you hear clipping (lower by -1 dB increments)
