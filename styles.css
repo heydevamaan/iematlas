@@ -347,6 +347,8 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 .product-card {
+  display: block;
+  color: inherit;
   background: var(--white);
   border-radius: var(--rounded-xl);
   overflow: hidden;
@@ -888,6 +890,17 @@ button { font-family: inherit; cursor: pointer; }
 
 .about__content .section__title {
   text-align: left;
+}
+
+.about__avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 16px;
+  border: 1.5px solid var(--gray-200);
+  box-shadow: var(--shadow-sm);
+  display: block;
 }
 
 .about__text {
